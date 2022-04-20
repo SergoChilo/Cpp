@@ -12,15 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3eac8f8-479a-42f6-9368-1a5213f487fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Cpp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/week_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Cpp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Cpp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test_file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650439454291</updated>
-      <workItem from="1650439457194" duration="245000" />
+      <workItem from="1650439457194" duration="611000" />
     </task>
     <servers />
   </component>
